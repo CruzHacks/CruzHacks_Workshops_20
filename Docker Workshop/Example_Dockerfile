@@ -11,7 +11,7 @@ COPY ./ python_api
 # We the use Docker RUN command to run shell commands.
 # In this case, we're using Pip to install Flask.
 
-RUN pip install flask
+RUN pip install Flask==1.1.1
 
 # Containers have their own network that's seperate from localhost on your machine.
 # To connect to the server that's going to run inside the container, we'll expose port 5000.
