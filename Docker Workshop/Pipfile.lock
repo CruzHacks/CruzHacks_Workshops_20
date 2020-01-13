@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2055c0228ea07f22e34c029d642d216a671bf7960721a28788d289ecadfa8387"
+            "sha256": "7f55ecbf88d1a1ab5f0d2015ae21cda8c661cdfdb6e1dfc067dbaf80499bfc64"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -37,21 +37,13 @@
             ],
             "version": "==7.0"
         },
-        "colorama": {
-            "hashes": [
-                "sha256:7d73d2a99753107a36ac6b455ee49046802e59d9d076ef8e47b61499fa29afff",
-                "sha256:e96da0d330793e2cb9485e9ddfd918d456036c7149416295932478192f4436a1"
-            ],
-            "markers": "sys_platform == 'win32'",
-            "version": "==0.4.3"
-        },
         "flask": {
             "hashes": [
-                "sha256:0749df235e3ff61ac108f69ac178c9770caeaccad2509cb762ce1f65570a8856",
-                "sha256:49f44461237b69ecd901cc7ce66feea0319b9158743dd27a2899962ab214dac1"
+                "sha256:7fab1062d11dd0038434e790d18c5b9133fd9e6b7257d707c4578ccc1e38b67c",
+                "sha256:b1883637bbee4dc7bc98d900792d0a304d609fce0f5bd9ca91d1b6457e5918dd"
             ],
             "index": "pypi",
-            "version": "==0.12.2"
+            "version": "==1.0"
         },
         "isort": {
             "hashes": [
